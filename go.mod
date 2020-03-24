@@ -1,5 +1,3 @@
-module github.com/aliyun-sdk/mail-go
+module github.com/shima-park/mail-go
 
-go 1.12
-
-require github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190809024733-eb4d6155fc12 // indirect
+go 1.13
